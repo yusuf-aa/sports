@@ -1,0 +1,24 @@
+html,body {
+    background-color:rgb(231, 149, 19);
+    font-family: 'Segoe UI, Tahoma, Geneva, Verdana< sans-serif;
+}
+
+h1 {
+    font-size: 80px;
+    color: red;
+    text-shadow: 3px 3px 5px;  color: black; 
+}
+a:link {
+       color: orangered;
+       text-decoration: none;
+
+}
+a:visited {
+    color: white;
+
+
+} 
+a:hover {
+text-shadow: 2px 2px 3px;
+
+}
